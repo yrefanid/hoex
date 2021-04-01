@@ -1,4 +1,4 @@
-# hoex
+# Higher Order Exclusion Relations (hoex)
 This repository concerns the Prolog code and the problem files that have been used in the following publication:
 
 I. Refanidis and I. Sakellariou.
